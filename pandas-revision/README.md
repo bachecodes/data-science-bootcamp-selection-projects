@@ -1,4 +1,4 @@
-# Superstore Data Analysis باستخدام Pandas
+# Superstore Data Analysis  Pandas
 
 ## Project Overview
 This project analyzes the Superstore dataset using Python Pandas. The goal is to explore sales, profit, and customer behavior.
